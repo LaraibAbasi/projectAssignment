@@ -5,7 +5,7 @@ import tensorflow as tf
 from fer import FER
 
 # Load your trained model
-model = tf.keras.models.load_model('FER_emotion_detection.pkl')
+model = tf.keras.models.load_model('FER_emotion_detection.h5')
 
 # Initialize the FER emotion detector
 emotion_detector = FER()
