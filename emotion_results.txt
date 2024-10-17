@@ -1,0 +1,15 @@
+Image URL: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-lwKMkkE6-3hJq1c7M-KN0vjXmjC3kE4Tag&s
+Predicted Emotion: fear
+All Emotions: {'angry': 0.05, 'disgust': 0.0, 'fear': 0.5, 'happy': 0.0, 'sad': 0.43, 'surprise': 0.01, 'neutral': 0.01}
+
+Image URL: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-lwKMkkE6-3hJq1c7M-KN0vjXmjC3kE4Tag&s
+Predicted Emotion: fear
+All Emotions: {'angry': 0.05, 'disgust': 0.0, 'fear': 0.5, 'happy': 0.0, 'sad': 0.43, 'surprise': 0.01, 'neutral': 0.01}
+
+Image URL: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-lwKMkkE6-3hJq1c7M-KN0vjXmjC3kE4Tag&s, Predicted Emotion: fear
+Image URL: https://blog.stocksnap.io/content/images/2022/02/smiling-woman_W6GFOSFAXA.jpg, Predicted Emotion: happy
+Image URL: https://blog.stocksnap.io/content/images/2022/02/smiling-woman_W6GFOSFAXA.jpg, Predicted Emotion: happy
+Image URL: https://blog.stocksnap.io/content/images/2022/02/smiling-woman_W6GFOSFAXA.jpg, Predicted Emotion: happy
+Image URL: https://blog.stocksnap.io/content/images/2022/02/smiling-woman_W6GFOSFAXA.jpg, Predicted Emotion: happy
+Image URL: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTeMJEJdUu7ctS52rCsvieievd1U7xLQlIbUg&s, Predicted Emotion: sad
+Image URL: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTeMJEJdUu7ctS52rCsvieievd1U7xLQlIbUg&s, Predicted Emotion: sad
